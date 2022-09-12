@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ahmad-su
-- 👀 I’m interested in Playing Badminton
-- 🌱 I’m currently learning Rust
-- 💞️ I’m looking to collaborate on any
+- 🌱 I’m a {Entrepreneur, Rust Programmer, Back-End Web-Dev, Author (Blog)}
+- 💞️ I’m a tech enthusiast
+- 👀 and I’m also a Badminton Addict :D
 
 <!---
 ahmad-su/ahmad-su is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
