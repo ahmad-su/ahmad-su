@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @ahmad-su
 - 🌱 I’m a {Entrepreneur, Rust Programmer, Back-End Web-Dev, Author (Blog)}
 - 💞️ I’m a tech enthusiast
-- 👀 and I’m also a Badminton Addict :D
+- 🏸 I like badminton
+- 👀 ahmad-suhaendi.blogspot.com
 - </> https://leetcode.com/user5598vs/
 
 <!---
