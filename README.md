@@ -2,7 +2,7 @@
 - 🌱 I’m a {Entrepreneur, Rust Programmer, Back-End Web-Dev, Author (Blog)}
 - 💞️ I’m a tech enthusiast
 - 🏸 I like badminton
-- 👀 ahmad-suhaendi.blogspot.com
+- 👀 https://ahmad-suhaendi.blogspot.com
 - </> https://leetcode.com/user5598vs/
 
 <!---
