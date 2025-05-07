@@ -8,7 +8,7 @@
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad-su&layout=compact)
-> "That's only counting from public repository. Actually, I spend most of my time writing JS, PHP, and PL/pgSQL over the past year"
+> "That only counts public repositories. In reality, I've spent most of my time over the past year writing JS, PHP, and PL/pgSQL."
 <!---
 ahmad-su/ahmad-su is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
