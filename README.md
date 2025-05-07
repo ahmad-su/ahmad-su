@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ahmad-su
-- 💞️ I’m a `Tech Enthusiast`. A ***Fullstack - System Developer*** who doesn't rely on a single programming language. Has interest in Web yet welcome all platform.
+- 💞️ I’m a `Tech Enthusiast`. A ***Fullstack - System Developer*** who doesn't rely on a single programming language. Has interest in Web yet welcomes all platform.
 
 - 👀 https://ahmad-suhaendi.blogspot.com
 - </> https://leetcode.com/user5598vs/
