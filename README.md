@@ -6,7 +6,7 @@
 - </> https://leetcode.com/user5598vs/
 
 > Public Repository Stat:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad-su&layout=compact)
 
 <!---
 ahmad-su/ahmad-su is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
